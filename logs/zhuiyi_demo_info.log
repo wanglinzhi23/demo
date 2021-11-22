@@ -1,0 +1,41 @@
+09:24:15.835 [restartedMain] INFO  com.example.demo.DemoApplication - Starting DemoApplication using Java 1.8.0_301 on MM-202111190645 with PID 17680 (D:\workspace\demo\target\classes started by Administrator in D:\workspace\demo)
+09:24:15.894 [restartedMain] INFO  com.example.demo.DemoApplication - No active profile set, falling back to default profiles: default
+09:24:17.349 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8090"]
+09:24:17.350 [restartedMain] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+09:24:17.351 [restartedMain] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.55]
+09:24:17.448 [restartedMain] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+09:24:18.079 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8090"]
+09:24:18.123 [restartedMain] INFO  com.example.demo.DemoApplication - Started DemoApplication in 3.08 seconds (JVM running for 5.147)
+09:25:12.205 [restartedMain] INFO  com.example.demo.DemoApplication - Starting DemoApplication using Java 1.8.0_301 on MM-202111190645 with PID 13020 (D:\workspace\demo\target\classes started by Administrator in D:\workspace\demo)
+09:25:12.261 [restartedMain] INFO  com.example.demo.DemoApplication - No active profile set, falling back to default profiles: default
+09:25:13.775 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8090"]
+09:25:13.776 [restartedMain] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+09:25:13.777 [restartedMain] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.55]
+09:25:13.935 [restartedMain] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+09:25:14.481 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8090"]
+09:25:14.519 [restartedMain] INFO  com.example.demo.DemoApplication - Started DemoApplication in 2.98 seconds (JVM running for 4.311)
+09:25:59.617 [http-nio-8090-exec-1] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+10:14:53.749 [restartedMain] INFO  com.example.demo.DemoApplication - Starting DemoApplication using Java 1.8.0_301 on MM-202111190645 with PID 13020 (D:\workspace\demo\target\classes started by Administrator in D:\workspace\demo)
+10:14:53.750 [restartedMain] INFO  com.example.demo.DemoApplication - No active profile set, falling back to default profiles: default
+10:14:54.114 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8090"]
+10:14:54.114 [restartedMain] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+10:14:54.114 [restartedMain] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.55]
+10:14:54.139 [restartedMain] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+10:14:54.260 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8090"]
+10:14:54.267 [restartedMain] INFO  com.example.demo.DemoApplication - Started DemoApplication in 0.604 seconds (JVM running for 2984.058)
+10:19:06.925 [restartedMain] INFO  com.example.demo.DemoApplication - Starting DemoApplication using Java 1.8.0_301 on MM-202111190645 with PID 13020 (D:\workspace\demo\target\classes started by Administrator in D:\workspace\demo)
+10:19:06.927 [restartedMain] INFO  com.example.demo.DemoApplication - No active profile set, falling back to default profiles: default
+10:19:07.276 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8090"]
+10:19:07.277 [restartedMain] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+10:19:07.277 [restartedMain] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.55]
+10:19:07.299 [restartedMain] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+10:19:07.407 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8090"]
+10:19:07.413 [restartedMain] INFO  com.example.demo.DemoApplication - Started DemoApplication in 0.595 seconds (JVM running for 3237.205)
+10:07:46.306 [restartedMain] INFO  com.example.demo.DemoApplication - Starting DemoApplication using Java 1.8.0_312 on MM-202111190645 with PID 19236 (D:\workspace\demo\target\classes started by Administrator in D:\workspace\demo)
+10:07:46.319 [restartedMain] INFO  com.example.demo.DemoApplication - No active profile set, falling back to default profiles: default
+10:07:47.679 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8090"]
+10:07:47.680 [restartedMain] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+10:07:47.680 [restartedMain] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.55]
+10:07:47.786 [restartedMain] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+10:07:48.334 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8090"]
+10:07:48.375 [restartedMain] INFO  com.example.demo.DemoApplication - Started DemoApplication in 2.803 seconds (JVM running for 5.284)
